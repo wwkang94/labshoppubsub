@@ -120,7 +120,7 @@
             this.values = temp.data._embedded.orders;
             
             this.newValue = {
-                'productId': '',
+                'productId': 0,
                 'qty': 0,
                 'customerId': '',
                 'amount': 0,
